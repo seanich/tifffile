@@ -5132,6 +5132,8 @@ TIFF_COMPESSIONS = {
     32909: 'pixarlog',
     32946: 'deflate',
     32947: 'dcs',
+    33003: 'aperio_jp2000_ycbcr',
+    33005: 'aperio_jp2000_rgb',
     34661: 'jbig',
     34676: 'sgilog',
     34677: 'sgilog24',
